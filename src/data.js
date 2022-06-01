@@ -39,7 +39,7 @@ export const projects = [
 export const skills = [
   "JavaScript",
   "React",
-  "MongoDB",
+  "MongoDB and Mongoose",
   "Express",
   "MySQL",
   "Node",
