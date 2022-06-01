@@ -10,4 +10,4 @@ This is my portfolio created using react.
 * Ronnie Rios
 
 ## Questions
-Please email me at ronniesmail14@gmail.com
+Please email me at ronniemarkrios@gmail.com
