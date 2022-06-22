@@ -11,7 +11,7 @@ export default function About() {
                         <br className="hidden lg:inline-block" /> I'm a full stack web developer.
                     </h1>
                     <p className="mb-8 leading-relaxed">
-                    I'm a former educator and currently an instructor and software developer for Capital One Developer Academy. Whether it be in the front-end or back-end, I'm experienced in problem solving and working collaboratively to make sure 
+                    I'm a former educator and currently an instructor and software engineer for Capital One's Developer Academy. Whether it be in the front-end or back-end, I'm experienced in problem solving and working collaboratively to make sure 
                     quality work is produced. Dedicated to learning and applying new technologies to ensure maximum functionality.
                     </p>
                     <div className="flex justify-center">
