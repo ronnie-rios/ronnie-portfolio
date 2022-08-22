@@ -8,7 +8,7 @@ function Bio() {
         <h1 className='title-font sm:text-4xl text-2xl mb-4 font-medium text-white'>About Me:</h1>
         <p className="mb-8 leading-relaxed">
           I'm Ronnie and I'm a developer based in Austin, TX. I'm always striving to learn and grow.
-          I worked as a teacher for 5 years and am now a software engineer and intructor for Capital One's Developer Academy. 
+          I worked as a teacher for 5 years and am now a software engineer and instructor for Capital One's Developer Academy. 
           I love soccer, Chelsea FC / Austin FC, playing drums, as well as gaming. Slowly descending into the mechanical keyboard rabbit hole.
           I run on coffee! Thanks for stopping by.
         </p>
