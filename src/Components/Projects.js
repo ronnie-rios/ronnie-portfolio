@@ -23,12 +23,12 @@ const Projects = () => {
                             className="sm:w-1/2 w-100 p-4"
                             rel="noreferrer">
                             <div className="flex relative rounded-md">
-                              <img
+                              {/* <img
                                 alt="gallery"
                                 className="absolute inset-0 w-full h-full object-cover object-center rounded-md"
                                 src={project.image}
-                              />
-                        <div className="px-8 py-10 relative z-10 w-full border-4 border-gray-800 bg-gray-900 opacity-0 hover:opacity-100 rounded-md">
+                              /> */}
+                        <div className="px-8 py-10 relative z-10 w-full border-4 border-gray-800 bg-gray-900 hover:opacity-100 rounded-md">
                         <h2 className="tracking-widest text-sm title-font font-medium text-green-400 mb-1">
                             {project.tech}
                         </h2>
