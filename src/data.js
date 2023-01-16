@@ -1,29 +1,28 @@
 export const projects = [
-    {
-      title: 'Beyond Us: MERN Application',
-      tech: 'JavaScript, Node.js, MongoDB, Mongoose, Express, React',
-      description: 'A full stack application that allows users to create accounts, and create posts for different causes that are impacting the world. ',
-      link: 'https://young-taiga-79587.herokuapp.com/',
-      github: 'https://github.com/ronnie-rios/beyond-us',
-      image: '../assets/images/beyond-us.png'
-  },
-
   {
-      title: 'Miso Hungry',
-      tech: 'Bootstrap, JavaScript, Node.js, Express.js, Cloudinary, Handlebars.js',
-      description: 'An application that pulls recipes and meals from an API. The user can perform CRUD operations on different recipes and meals',
-      link: 'https://intense-temple-14332.herokuapp.com/',
-      github: 'https://github.com/ronnie-rios/miso-hungry',
-      image: '../assets/images/miso-hungry.png'
+      title: 'Job tracker',
+      tech: 'JavaScript, Node.js, MongoDB, Mongoose, Express, React, Tailwind, Daisy UI',
+      description: 'A full stack application where a user can create account and add different jobs they are applying to and update them.',
+      link: 'https://job-tracker-r56d.onrender.com/',
+      github: 'https://github.com/ronnie-rios/app-tracker',
+      image: ''
   },
-  {
-      title: 'Shop-Shop Redux',
-      tech: 'JavaScript, Node.js, MongoDB, Mongoose, Express, React',
-      description: 'This is a fictional e-commerce application that uses React-Redux for  global state control. Users can create an account and add items to their cart.',
-      link: 'https://obscure-sands-72753.herokuapp.com/',
-      github: 'https://github.com/ronnie-rios/shop-shop-redux',
-      image: '../assets/images/shopshopredux.png'
-  },
+//   {
+//     title: 'Beyond Us: MERN Application',
+//     tech: 'JavaScript, Node.js, MongoDB, Mongoose, Express, React',
+//     description: 'A full stack application that allows users to create accounts, and create posts for different causes that are impacting the world. ',
+//     link: 'https://young-taiga-79587.herokuapp.com/',
+//     github: 'https://github.com/ronnie-rios/beyond-us',
+//     image: '../assets/images/beyond-us.png'
+// },
+//   {
+//       title: 'Shop-Shop Redux',
+//       tech: 'JavaScript, Node.js, MongoDB, Mongoose, Express, React',
+//       description: 'This is a fictional e-commerce application that uses React-Redux for  global state control. Users can create an account and add items to their cart.',
+//       link: 'https://obscure-sands-72753.herokuapp.com/',
+//       github: 'https://github.com/ronnie-rios/shop-shop-redux',
+//       image: '../assets/images/shopshopredux.png'
+//   },
   {
     title: 'Github Finder',
     tech: 'React, JavaScript, Tailwind CSS, Daisy UI, Github API',
@@ -37,6 +36,8 @@ export const projects = [
 
 export const skills = [
   "JavaScript",
+  "Python",
+  "Swift",
   "React",
   "Node",
   "MongoDB and Mongoose",
@@ -44,6 +45,6 @@ export const skills = [
   "MySQL",
   "NextJS",
   "Redux",
-  "Jest",
+  "Jest, Mocha, Chai, ViTest",
   "Git Workflow"
 ];

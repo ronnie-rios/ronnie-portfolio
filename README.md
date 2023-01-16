@@ -1,8 +1,8 @@
 # Portfolio
-This is my portfolio created using react. 
+This is my portfolio created using React. 
 
 ## Technology used:
-* javascript
+* JavaScript
 * React
 * Tailwind
 

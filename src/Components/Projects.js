@@ -12,7 +12,7 @@ const Projects = () => {
                         Projects I have worked on
                     </h1>
                     <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-                        Click the picture to viewed the deploy application. Hover over for more info and the link to the repository.
+                        Click the box to viewed the deploy application. The link to the repository is alos listed at the bottom..
                     </p>
                 </div>
                 <div className="flex flex-wrap -m-4">
