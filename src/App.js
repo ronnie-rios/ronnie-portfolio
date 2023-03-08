@@ -7,6 +7,8 @@ import Skills from "./Components/Skills";
 import Footer from "./Components/Footer";
 import Bio from "./Components/Bio";
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import Services from "./Components/Services";
+import '../src/App.css';
 
 export default function App() {
   return (
@@ -16,12 +18,12 @@ export default function App() {
         <Routes>
           <Route path='/' element={<About/>} />
           <Route path='/bio' element={<Bio />} />
-        </Routes>
-        
-        <Projects />
-        <Skills />
-        <Contact />
-        <Footer />
+        </Routes>  
+          <Services />
+          <Projects />
+          <Skills />
+          <Contact />
+          <Footer />
       </main>
     </Router>
   );

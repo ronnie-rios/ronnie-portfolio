@@ -22,15 +22,15 @@ export const projects = [
 
 export const skills = [
   "JavaScript",
+  "Node",
   "Python",
   "Swift",
   "React",
-  "Node",
-  "MongoDB and Mongoose",
-  "Express",
-  "MySQL",
-  "NextJS",
   "Redux",
-  "Jest, Mocha, Chai, ViTest",
+  "MongoDB and Mongoose",
+  "MySQL",
+  "Express",
+  "Next.js",
+  "Jest, Mocha, Chai, ViTest, Cypress",
   "Git Workflow"
 ];

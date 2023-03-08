@@ -1,5 +1,6 @@
 import React from "react";
 import { Link } from 'react-router-dom';
+
 export default function About() {
     return(
         <section id="about">
@@ -10,8 +11,8 @@ export default function About() {
                         Hello, I'm Ronnie Rios. 
                         <br className="hidden lg:inline-block" /> I'm a full stack web developer.
                     </h1>
-                    <p className="mb-8 leading-relaxed">
-                    I'm a former educator and currently an instructor and software engineer for Capital One's Developer Academy. Whether it be in the front-end or back-end, I'm experienced in problem solving and working collaboratively to make sure 
+                    <p className="mb-8 leading-relaxed text-lg">
+                    Whether it be in the front-end or back-end, I'm experienced in problem solving and working collaboratively to make sure 
                     quality work is produced. Dedicated to learning and applying new technologies to ensure maximum functionality.
                     </p>
                     <div className="flex justify-center">
@@ -29,7 +30,7 @@ export default function About() {
                             <button className="ml-4 inline-flex text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg">About Me</button>
                         </Link>
                     </div>
-                    
+                   
                 </div>    
             </div>
         </section>

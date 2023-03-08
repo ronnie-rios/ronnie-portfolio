@@ -28,12 +28,12 @@ const Skills = () => {
                     ))}
                 </div>                    
             </div>
-            <p className='text-center sm:text-4xl text-1xl font-medium title-font text-white mb-4 hover:underline'>View a copy of my resumé
-            <span>
-                <a href={`https://drive.google.com/file/d/1nzPkzjKuqe56VfVEZrpET0RjfhmopeFU/view?usp=sharing`}
+            <p className='text-center sm:text-4xl text-1xl font-medium title-font text-white mb-4 '>View a copy of my resumé 
+            <span className=" hover:underline">
+                <a href={`https://drive.google.com/file/d/1GRIHdTfro-pnJZWp3P3csabLZkfN9san/view?usp=sharing`}
                  target="_blank"
                  rel="noreferrer" 
-                 className="hover:text-blue"> here.</a>
+                 > here.</a>
             </span>
             </p>
         </section>
