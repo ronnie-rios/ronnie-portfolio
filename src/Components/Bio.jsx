@@ -21,8 +21,7 @@ function Bio() {
           software engineer for two years with professional experience at
           Capital One. I'm currently working on freelance projects for multiple
           clients. I love soccer, Chelsea FC / Austin FC, playing drums, as well
-          as gaming. I have slowly descending into the mechanical keyboard
-          rabbit hole.
+          as gaming.
         </p>
         <Link to="/">
           <button className="ml-4 justify-center text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg">
