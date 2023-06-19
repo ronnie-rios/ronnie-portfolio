@@ -1,5 +1,6 @@
 import jobtrackr from './assets/images/jobtrackr.png'
 import ghfindr from './assets/images/githubfind.png'
+import context from './assets/images/context.png'
 export const projects = [
   {
       title: 'Job tracker',
@@ -16,6 +17,14 @@ export const projects = [
     link: 'https://github-finder-lyart-xi.vercel.app/',
     github: 'https://github.com/ronnie-rios/github-finder',
     image: ghfindr
+  },
+  {
+    title: 'Context Demo',
+    tech: 'React, Context API, Vite',
+    description: `This is a React application that shows how to implement the Context API in React for new developers. Clearly outlines the steps and processes to take`,
+    link: 'https://context-demo.onrender.com/',
+    github: 'https://github.com/ronnie-rios/context-demo',
+    image: context
   }
 
 ];
@@ -24,13 +33,13 @@ export const skills = [
   "JavaScript",
   "Node",
   "Python",
-  "Swift",
+  "Java / Spring Boot",
   "React",
+  "Next.js",
   "Redux",
   "MongoDB and Mongoose",
-  "MySQL",
+  "MySQL and PostgreSQL",
   "Express",
-  "Next.js",
   "Jest, Mocha, Chai, ViTest, Cypress",
   "Git Workflow"
 ];
